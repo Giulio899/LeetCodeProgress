@@ -25,10 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Giulio899/LeetCodeProgress/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Giulio899/LeetCodeProgress/tree/master/0025-reverse-nodes-in-k-group) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Giulio899/LeetCodeProgress/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Giulio899/LeetCodeProgress/tree/master/0025-reverse-nodes-in-k-group) |
 ## Two Pointers
 |  |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Giulio899/LeetCodeProgress/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Giulio899/LeetCodeProgress/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
