@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Giulio899/LeetCodeProgress/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2481-strictly-palindromic-number](https://github.com/Giulio899/LeetCodeProgress/tree/master/2481-strictly-palindromic-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -48,4 +49,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Giulio899/LeetCodeProgress/tree/master/0002-add-two-numbers) |
+| [2481-strictly-palindromic-number](https://github.com/Giulio899/LeetCodeProgress/tree/master/2481-strictly-palindromic-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/Giulio899/LeetCodeProgress/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
