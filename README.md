@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Giulio899/LeetCodeProgress/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/Giulio899/LeetCodeProgress/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Giulio899/LeetCodeProgress/tree/master/0014-longest-common-prefix) |
 ## Backtracking
 |  |
 | ------- |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Giulio899/LeetCodeProgress/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Giulio899/LeetCodeProgress/tree/master/0037-sudoku-solver) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Giulio899/LeetCodeProgress/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
