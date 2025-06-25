@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Giulio899/LeetCodeProgress/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Giulio899/LeetCodeProgress/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Giulio899/LeetCodeProgress/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Giulio899/LeetCodeProgress/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Giulio899/LeetCodeProgress/tree/master/0025-reverse-nodes-in-k-group) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Giulio899/LeetCodeProgress/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Giulio899/LeetCodeProgress/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Giulio899/LeetCodeProgress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Giulio899/LeetCodeProgress/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2481-strictly-palindromic-number](https://github.com/Giulio899/LeetCodeProgress/tree/master/2481-strictly-palindromic-number) |
