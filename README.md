@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Giulio899/LeetCodeProgress/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Giulio899/LeetCodeProgress/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Giulio899/LeetCodeProgress/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Giulio899/LeetCodeProgress/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Giulio899/LeetCodeProgress/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Giulio899/LeetCodeProgress/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Giulio899/LeetCodeProgress/tree/master/0037-sudoku-solver) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Giulio899/LeetCodeProgress/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Giulio899/LeetCodeProgress/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Giulio899/LeetCodeProgress/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Giulio899/LeetCodeProgress/tree/master/0027-remove-element) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Giulio899/LeetCodeProgress/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2481-strictly-palindromic-number](https://github.com/Giulio899/LeetCodeProgress/tree/master/2481-strictly-palindromic-number) |
 ## Binary Search
